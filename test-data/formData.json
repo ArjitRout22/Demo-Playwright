@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test@example.com",
+    "gender": "Male",
+    "phone": "9876543210",
+    "dob": {
+      "day": "20",
+      "month": "April",
+      "year": "1990"
+    },
+    "subject": "Maths",
+    "hobbies": [
+      "Sports",
+      "Reading"
+    ],
+    "address": "123 Test Street",
+    "state": "NCR",
+    "city": "Delhi"
+  }
+]

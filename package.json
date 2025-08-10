@@ -1,0 +1,15 @@
+{
+  "name": "form-submit-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test --reporter=html",
+    "test:headed": "npx playwright test --headed",
+    "test:firefox": "npx playwright test --project=firefox"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1",
+    "typescript": "^5.3.3"
+  }
+}
